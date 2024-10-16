@@ -16,6 +16,8 @@ i kind of over estmated my own abilty and compixity of the project
 pro: simple to solve
 con:some zoomer may not able to pass the test cause [they cannot read anlog cock anymore](https://www.telegraph.co.uk/education/2018/04/24/schools-removing-analogue-clocks-exam-halls-teenagers-unable/).
 
+and who is Kurisu Makise again ?
+
 to do(dead)
 - [x]have basic anlog clock
 - [x]give up button
