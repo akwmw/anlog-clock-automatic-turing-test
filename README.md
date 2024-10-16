@@ -1,9 +1,9 @@
 # anlog-clock-automatic-turing-test
 a automatic turing test write in c
 compile command
-
+```
 gcc -o clock clock.c `pkg-config --cflags --libs gtk+-3.0` -lm
-
+```
 dependency:libgtk-3-0
 tested in c11
 
