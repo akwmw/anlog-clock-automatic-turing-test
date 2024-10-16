@@ -1,2 +1,2 @@
 # anlog-clock-automatic-turing-test
-a automatic turing test writ in c
+a automatic turing test write in c
