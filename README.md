@@ -21,4 +21,5 @@ to do(dead)
 - [x]give up button
 - [x]reset button
 - [ ]screen shot clock window
-- [ ]window 
+- [ ]window
+- [ ]write a unit test
