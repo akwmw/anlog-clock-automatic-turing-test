@@ -6,7 +6,7 @@ gcc -o clock clock.c `pkg-config --cflags --libs gtk+-3.0` -lm
 ```
 dependency:gtk-3-0
 tested in c11
-#window compile guide
+# Window compile guide
 
 make sure you have mingw64 & gcc install
 
