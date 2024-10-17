@@ -28,3 +28,4 @@ to do(dead)
 - [ ]write a unit test
 - [ ]improve textfield to accept more time format like 9:00 nine clock
 - [ ]colour clock face
+- [ ]purge unuse depency
