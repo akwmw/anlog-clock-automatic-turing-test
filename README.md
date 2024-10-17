@@ -6,6 +6,7 @@ gcc -o clock clock.c `pkg-config --cflags --libs gtk+-3.0` -lm
 ```
 dependency:gtk-3-0
 tested in c11
+
 at this point i am confince someone at mircosoft hate C programming cause it was stupidly hard to compile windows
 
 I use this project as practice and challange to write low level c code again and learn wrinting gui in c
